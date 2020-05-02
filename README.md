@@ -4,18 +4,21 @@
 
 ## About
 
-                          ##Smart City Power Technology
+##Smart City Power Technology
  
-                             Project Overview
+##Project Overview
 We are building an Application that will compact Power supply issues in Africa. This will be achieved by 
 taking data visualization of each street in an area, so one can know which area needs urgent assistance
-Creating a means where a user can call the power holding company incase on emergency
-An avenue where a user can post a particular issue he has
+
+Creating a means where a user can call the power holding company in cases on emergency.
+An avenue where a user can post a particular issue he has.
+
 A user can pay his bills through the App
+
 Power Holding company can comment on a particular post
  
  
-Features 
+##Features 
 Admin can signin/signup
 User/Customer can signin/signup
 Company can signin/signup
@@ -26,10 +29,10 @@ User/Customer can make payment
 
 ## Why
 
-Talk about what problem this solves, what SDG(s) and SGD targets it addresses and why these are imoirtant
+Major cities in Africa has indeed been plagued with unstable Electrical Power Supply challenge which has hindered its growth economically tremendously. We hope to create a solution that will provide help to the ugly scene.  
 
 ## Usage
- How would someone use what you have built, include URLs to the deployed app, service e.t.c when you have it setup
+
 
 
 ## Setup
@@ -39,8 +42,6 @@ Install `npm` or `yarn` if you dont have any of them already installed. We recom
 After clonning the repo to your local machine and moving into the cloned folder, Run `yarn install` to get started by installing dependencies. 
 
 `src/index.js` is the entry to the project and source code should go into the `src` folder.
-
-All tests should be written in the `__tests__' folder. There's a sample in there.
 
 This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bundler. It is much simpler that WebPack and the others
 
@@ -56,8 +57,11 @@ This starter uses [Parcel](https://parceljs.org/getting_started.html) as the bun
 ## Authors
 
 Victor Godwin
+
 Mbaiye
+
 Midewill
+
 Jonathan
 
 ## Contributing
