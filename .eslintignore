@@ -1,8 +1,10 @@
 node_modules
 build
-docs
-docker
-test
-.vscode
-koa/views
-src/generated
+dist/
+# Tests
+src/**/*.spec.js
+src/**/*.test.js
+# Dependency
+node_modules/
+
+package-lock.json
