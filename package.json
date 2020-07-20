@@ -30,7 +30,7 @@
     "jest-transform-stub": "^2.0.0",
     "jsonwebtoken": "^8.5.1",
     "jwt-decode": "^2.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "material-ui-popup-state": "^1.5.4",
     "mdbreact": "^4.25.6",
     "moment": "^2.24.0",
