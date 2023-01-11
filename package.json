@@ -28,7 +28,7 @@
     "history": "^4.10.1",
     "identity-obj-proxy": "^3.0.0",
     "jest-transform-stub": "^2.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "material-ui-popup-state": "^1.5.4",
